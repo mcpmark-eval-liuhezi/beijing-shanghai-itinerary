@@ -1,11 +1,10 @@
 # Beijing → Shanghai Quarterly Offsite Itinerary
 
-**Travel date:** 2026-10-24
+**Travel date:** 2026-11-12 (tomorrow)
 **Route:** Beijing South (北京南) → Shanghai Hongqiao (上海虹桥)
 **Purpose:** Beijing team quarterly offsite travel plan
 
-Research basis: all high-speed **G** trains departing Beijing South between 06:00 and 12:00
-on 2026-10-24 and terminating at Shanghai Hongqiao, ranked by total journey time.
+Research basis: all high-speed **G** trains departing Beijing South via the 06:00–12:00 window on 2026-11-12 and terminating at Shanghai Hongqiao, ranked by total journey time.
 
 ## Recommended train: G9
 
@@ -19,7 +18,7 @@ on 2026-10-24 and terminating at Shanghai Hongqiao, ranked by total journey time
 G9 is the fastest G train on this route within the 06:00–12:00 departure window.
 
 - **Intermediate stops:** 3 — Jinan West (济南西), Nanjing South (南京南), Wuxi East (无锡东)
-- **Longest dwell:** Jinan West (济南西), 3 minutes
+- **Longest dwell:** Jinan West (济南西), 3 minutes (11:23 → 11:26)
 
 ## Runner-up comparison: G11 (backup)
 
@@ -32,8 +31,7 @@ G9 is the fastest G train on this route within the 06:00–12:00 departure windo
 | Intermediate stops | 3 | 3 |
 | Stop list | 济南西 → 南京南 → 无锡东 | 济南西 → 南京南 → 常州北 |
 
-G11 departs 3 minutes later than G9 and arrives 4 minutes later, so it costs only one
-extra minute of total travel time — a solid backup if seats on G9 sell out.
+G11 departs 3 minutes later than G9 and arrives 4 minutes later, so it costs only one extra minute of total travel time — a solid backup if seats on G9 sell out.
 
 ## Full stop table
 
@@ -59,6 +57,6 @@ extra minute of total travel time — a solid backup if seats on G9 sell out.
 
 ## Notes
 
-- Times are local (China Standard Time); data queried on 2026-10-23 from 12306.
-- G9 fares at query time: business class ¥2315, first class ¥1058 (14 seats left), second class ¥661.
-- G11 fares at query time: business class ¥2315, first class ¥1058 (9 seats left), second class ¥661.
+- Times are local (China Standard Time); data queried on 2026-11-11 from 12306.
+- G9 fares at query time: business class ¥2315, first class ¥1107 (14 seats left), second class ¥692.
+- G11 fares at query time: business class ¥2315, first class ¥1058, second class ¥661.
