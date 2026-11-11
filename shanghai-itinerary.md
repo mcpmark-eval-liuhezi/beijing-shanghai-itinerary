@@ -1,4 +1,4 @@
-# Beijing → Shanghai Quarterly OffsiteItinerary
+# Beijing → Shanghai Quarterly Offsite Itinerary
 
 **Date:** 2026-11-12 (tomorrow)
 **Route:** 北京南 (Beijing South / VNP) → 上海虹桥 (Shanghai Hongqiao / AOH)
@@ -28,7 +28,7 @@
 | 5 | 上海虹桥 (Shanghai Hongqiao) | 14:35 | 14:35 | (terminus) | 04:35 |
 
 **Notes on G9:**
-- Fastest trains on the 北京南 → 上海虹桥 corridor departing 06:00–12:00 on 2026-11-12.
+- Fastest train on the 北京南 → 上海虹桥 corridor departing 06:00–12:00 on 2026-11-12.
 - Tickets available: 商务座 (Business) 1 ticket left at ¥2,420; 一等座 (First) sold out; 二等座 (Second) available at ¥692.
 - Recommended for the team: book 二等座 (Second class) — wide availability and comfortable seating for a 4.5-hour ride.
 
@@ -47,7 +47,7 @@
 | **Price (2nd class)** | ¥692 | ¥661 |
 | **Business class availability** | 1 ticket left | 10 tickets |
 | **First class availability** | Sold out | 2 tickets left |
-| **Overall recommendation** | ⭐ **Primary choice** |solid backup |
+| **Overall recommendation** | ⭐ **Primary choice** | **Solid backup** |
 
 **Why G11 is the backup:**
 - Only 1 minute slower overall (04:36 vs 04:35).
@@ -62,7 +62,7 @@
 | Item | Details |
 |---|---|
 | Travel date | 2026-11-12 (Thursday) |
-| Book by | 2026-11-11 evening (tesように) |
+| Book by | 2026-11-11 evening (ASAP) |
 | Route | 北京南 → 上海虹桥, high-speed G trains |
 | Primary train | **G9**, 10:00 → 14:35 (4h35m) |
 | Backup train | **G11**, 10:03 → 14:39 (4h36m) |
