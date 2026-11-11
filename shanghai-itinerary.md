@@ -17,7 +17,7 @@
 | Seats available | Business: none (sold out); First class: 2 tickets @ ¥1107; Second class: available @ ¥692 |
 | Dwell summary | 3 intermediate stops; longest dwell at Jinan West (3 min) |
 
-**ilinary summary:** G9 is the fastest direct G train on this route departing within the 06:00–12:00 window and terminating at Shanghai Hongqiao (4h35m). It calls at Jinan West, Nanjing South, and Wuxi East before arriving at Hongqiao at 14:35.
+**Summary:** G9 is the fastest direct G train on this route departing within the 06:00–12:00 window and terminating at Shanghai Hongqiao (4h35m). It calls at Jinan West, Nanjing South, and Wuxi East before arriving at Hongqiao at 14:35.
 
 ---
 
@@ -32,7 +32,7 @@
 | Longest dwell | Jinan West (3 min) | Jinan West (4 min) |
 | Tickets | 2nd class available @ ¥692; 1st class 2 tickets @ ¥1107 | 2nd class available @ ¥661; 1st class 13 tickets @ ¥1058 |
 
-**takeaway:** G9 is only 1 minute faster than G11 and both run essentially the same schedule (10:00-12:03 departures). If G9 sells out, G11 is a near-identical backup — same origin/destination, departing just 3 minutes later.
+**Takeaway:** G9 is only 1 minute faster than G11 and both run essentially the same schedule (10:00 vs 10:03 departures). If G9 sells out, G11 is a near-identical backup — same origin/destination, departing just 3 minutes later.
 
 ---
 
@@ -67,7 +67,7 @@
 
 ## Practical Notes
 
-- Book tickets on 12306 (or via a rail travel agent) as soon as possible; first-class票 on G9 is limited (only 2 tickets left at time of research).
-- Recommend booking second-class (二等座) for group travel where available.
+- Book tickets on 12306 (or via a rail travel agent) as soon as possible; first-class tickets on G9 are limited (only 2 tickets left at time of research).
+- Recommend booking second class (二等座) for group travel where available.
 - Arrive at Beijing South at least 40 minutes before the 10:00 departure for security and boarding.
-- arrive at Shanghai Hongqiao by 14:35; plan onward transport from there accordingly.
+- Arrive at Shanghai Hongqiao by 14:35; plan onward transport from there accordingly.
