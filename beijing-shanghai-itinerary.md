@@ -1,9 +1,8 @@
-# Beijing ↔ Shanghai High-Speed Rail Itinerary
+# Beijing ↔ Shanghai Rail Itinerary (2026-11-14 outbound / 2026-11-16 return)
 
-**Outbound date:** 2026-11-13 (Friday, tomorrow)
-**Return date:** 2026-11-14 (Saturday, the day after)
-**Route:** Beijing South (北京南, VNP) ↔ Shanghai Hongqiao (上海虹桥, AOH)
-**Constraints:** Outbound must arrive at Shanghai Hongqiao by 14:30; return departs Shanghai Hongqiao after 17:00.
+> Client meeting moved up — travel locked in for tomorrow (Sat, Nov 14) and the evening of Nov 16.
+> Route: Beijing South (北京南, VNP) ↔ Shanghai Hongqiao (上海虹桥, AOH)
+> Constraints: Outbound must arrive at Shanghai Hongqiao by 14:30; return departs Shanghai Hongqiao after 17:00.
 
 > **Publishing note:** GitHub gists aren't accessible with the current token (403), so this itinerary is published as a file in the repo `mcpmark-eval-liuhezi/beijing-shanghai-itinerary` at [`beijing-shanghai-itinerary.md`](https://github.com/mcpmark-eval-liuhezi/beijing-shanghai-itinerary/blob/main/beijing-shanghai-itinerary.md).
 
@@ -11,15 +10,30 @@
 
 ## Outbound Shortlist (Morning G Trains, Arriving by 14:30, 2nd Class Available)
 
-All three shortlisted trains run direct G services from 北京南 to 上海虹桥 with second-class (二等座) seats available as of today (2026-11-12).
+All three shortlisted trains run direct G services from 北京南 to 上海虹桥 with second-class (二等座) seats available as of today (2026-11-13).
 
-### 1. G1 — **Recommended** ✅
+### 1. G7 — **Recommended** ✅
+
+- **Departs:** 09:00 from Beijing South
+- **Arrives:** 13:37 at Shanghai Hongqiao (4h 37m journey — fastest on the route)
+- **Seat availability:** Business (商务座): 8 tickets left, ¥2,420 · 1st class (一等座): Available, ¥1,107 · **2nd class (二等座): Available, ¥692** · Standing: Available, ¥692
+- **Why book this:** 09:00 departure is humane (no 06:30 start), arrives 13:37 — an 83-minute buffer before your 14:30 deadline. Second-class seats are wide open. Only 3 intermediate stops (济南西, 南京南, 苏州北), so it's a smooth ride. Fastest runtime on the shortlist at 4h37m.
+- **Complete stop list (2026-11-14):**
+
+| # | Station | Arrive | Depart | Elapsed |
+|---|---------|--------|--------|---------|
+| 1 | 北京南 | ---- | 06:30 | 00:00 |
+| 2 | 济南西 | 10:22 | 10:25 | 01:22 |
+| 3 | 南京南 | 12:24 | 12:26 | 03:24 |
+| 4 | 苏州北 | 13:11 | 13:13 | 04:11 |
+| 5 | 上海虹桥 | **13:37** | 13:37 (terminus) | 04:37 |
+
+### 2. G1
 
 - **Departs:** 06:30 from Beijing South
 - **Arrives:** 11:24 at Shanghai Hongqiao (4h 54m journey)
-- **Seat availability:** Business (商务座): 10 tickets left, ¥1,995 · 1st class (一等座): Available, ¥1,005 · **2nd class (二等座): Available, ¥598** · Standing: Available, ¥598
-- **Why book this:** It's the fastest option on the shortlist with the largest buffer — you arrive at 11:24, nearly 3 hours before your 14:30 deadline, giving you plenty of margin for the meeting. Second-class seats are wide open. Only 5 intermediate stops, so it's a punchy ride.
-- **Complete stop list (2026-11-13):**
+- **Seat availability:** Business (商务座): 16 tickets left, ¥1,995 · 1st class (一等座): Available, ¥1,005 · **2nd class (二等座): Available, ¥598** · Standing: Available, ¥598
+- **Complete stop list (2026-11-14):**
 
 | # | Station | Arrive | Depart | Elapsed |
 |---|---------|--------|--------|---------|
@@ -31,29 +45,14 @@ All three shortlisted trains run direct G services from 北京南 to 上海虹�
 | 6 | 苏州北 | 10:59 | 11:01 | 04:29 |
 | 7 | 上海虹桥 | **11:24** | 11:24 (terminus) | 04:54 |
 
-### 2. G7
-
-- **Departs:** 09:00 from Beijing South
-- **Arrives:** 13:37 at Shanghai Hongqiao (4h 37m journey — fastest on the route)
-- **Seat availability:** Business (商务座): 14 tickets left, ¥2,420 · 1st class (一等座): Sold out, ¥1,107 · **2nd class (二等座): Available, ¥692** · Standing: Available, ¥692
-- **Complete stop list (2026-11-13):**
-
-| # | Station | Arrive | Depart | Elapsed |
-|---|---------|--------|--------|---------|
-| 1 | 北京南 | ---- | 09:00 | 00:00 |
-| 2 | 济南西 | 10:22 | 10:25 | 01:22 |
-| 3 | 南京南 | 12:24 | 12:26 | 03:24 |
-| 4 | 苏州北 | 13:11 | 13:13 | 04:11 |
-| 5 | 上海虹桥 | **13:37** | 13:37 (terminus) | 04:37 |
-
-- **Note:** G7 is the fastest train on the route (4h37m) and gives you a 1-hour buffer before your 14:30 deadline. Only 3 stops, so it's one of the smoothest rides. Book it if you'd rather sleep in and still make the meeting.
+- **Note:** G1 is cheaper in second class (¥598 vs ¥692) and arrives earliest (11:24), but the 06:30 departure is early and first class is competitive at ¥1,005. Good backup if G7 sells out.
 
 ### 3. G37
 
 - **Departs:** 07:52 from Beijing South
 - **Arrives:** 12:35 at Shanghai Hongqiao (4h 43m journey)
-- **Seat availability:** Business (商务座): Sold out, ¥2,315 · 1st class (一等座): Sold out, ¥1,058 · **2nd class (二等座): Available, ¥661** · Standing: Available, ¥661
-- **Complete stop list (2026-11-13):**
+- **Seat availability:** Business (商务座): 9 tickets left, ¥2,315 · 1st class (一等座): Available, ¥1,058 · **2nd class (二等座): Available, ¥661** · Standing: Available, ¥661
+- **Complete stop list (2026-11-14):**
 
 | # | Station | Arrive | Depart | Elapsed |
 |---|---------|--------|--------|---------|
@@ -61,54 +60,57 @@ All three shortlisted trains run direct G services from 北京南 to 上海虹�
 | 2 | 济南西 | 09:14 | 09:18 | 01:22 |
 | 3 | 南京南 | 11:15 | 11:18 | 03:23 |
 | 4 | 镇江南 | 11:36 | 11:47 | 03:44 |
-| 5 | 上海虹桥 | **12:35** | 12:37 ( onward) | 04:43 |
-| 6 | 嘉兴南 | 13:04 | 13:07 ( onward) | 05:12 |
-| 7 | 杭州东 | 13:31 ( onward) | 13:31 | 05:39 |
+| 5 | 上海虹桥 | **12:35** | 12:37 (onward) | 04:43 |
+| 6 | 嘉兴南 | 13:04 | 13:07 (onward) | 05:12 |
+| 7 | 杭州东 | 13:31 (onward) | 13:31 | 05:39 |
 
-- **Note:** G37 arrives at Hongqiao at 12:35 with a comfortable 2-hour buffer. Be aware that first and business class are both sold out on this train — second class is your option. It also continues on to 嘉兴南 and 杭州东, so it's a longer route train — just alight at 上海虹桥 (12:35).
+- **Note:** G37 arrives at Hongqiao at 12:35 with a comfortable 2-hour buffer. It continues on to 嘉兴南 and 杭州东, so alight at 上海虹桥 (12:35). Second class is your option here.
 
 ---
 
-## Outbound Recommendation: **Book G1 (06:30 → 11:24)**
+## Outbound Recommendation: **Book G7 (09:00 → 13:37)**
 
 **Reasons:**
-1. **Best balance of speed and safety:** 06:30 departure is early but the 4h54m run gets you in at 11:24 — nearly 3 hours before your 14:30 deadline. Second class (¥598) is open, and first class (¥1,005) is also available if you want to upgrade.
-2. **Secure 2nd-class seats now:** 二等座 shows "available" (not show-controlled). Avoid G7 (1st class sold out) and G9 (arrives 14:35, 5 minutes too late).
-3. **Fallbacks:** If G1 sells out, **G7 (09:00 → 13:37, ¥692)** or **G37 (07:52 → 12:35, ¥661)** both have 2nd-class availability.
+1. **Reasonable departure time:** 09:00 is much more humane than G1's 06:30 start, while still arriving at Shanghai Hongqiao at 13:37 — an 83-minute buffer before your 14:30 meeting deadline.
+2. **Fastest runtime:** 4h 37m, with only 3 intermediate stops (济南西, 南京南, 苏州北) — one of the smoothest rides on the route.
+3. **Second-class seats available:** ¥692, with 一等座 also available (¥1,107) if you want more room.
+4. **G1** is cheaper in second class (¥598) and arrives earliest (11:24), but the 06:30 departure is brutal; **G37** is a solid alternate with a 07:52 departure but arrives only 12:35 and costs more in both classes.
 
 ---
 
-## Return Options (Evening of 2026-11-14, departs Shanghai Hongqiao after 17:00)
+## Return Options (Evening of Mon, Nov 16, departs Shanghai Hongqiao after 17:00)
 
-### Recommended: G32 ⭐
+### Recommended: G26 ⭐
 
-- **Departs:** 19:25 from Shanghai Hongqiao → **Arrives:** Beijing South 23:49 (4h 24m — fastest return train)
-- **Seat availability:** Business (商务座): 8 tickets left, ¥1,995 · 1st class (一等座): Available, ¥1,005 · **2nd class (二等座): Available, ¥598** · Standing: Available, ¥598
-- **Complete stop list (2026-11-14):**
+- **Departs:** 17:00 from Shanghai Hongqiao → **Arrives:** Beijing South 21:32 (4h 32m)
+- **Seat availability:** Business (商务座): 9 tickets left, ¥2,315 · 1st class (一等座): Available, ¥1,058 · **2nd class (二等座): Available, ¥661** · Preferred 1st (优选一等座): Available, ¥1,455
+- **Complete stop list (2026-11-16):**
 
 | # | Station | Arrive | Depart | Elapsed |
 |---|---------|--------|--------|---------|
-| 1 | 上海虹桥 | ---- | 19:25 | 00:00 |
-| 2 | 南京南 | 20:24 | 20:27 | 00:59 |
-| 3 | 济南西 | 22:24 | 22:26 | 02:59 |
-| 4 | 北京南 | **23:49** | 23:49 (terminus) | 04:24 |
+| 1 | 上海虹桥 | ---- | 17:00 | 00:00 |
+| 2 | 苏州北 | 17:21 | 17:23 | 00:21 |
+| 3 | 南京南 | 18:07 | 18:10 | 01:07 |
+| 4 | 济南西 | 20:07 | 20:09 | 03:07 |
+| 5 | 北京南 | **21:32** | 21:32 (terminus) | 04:32 |
 
-- **Why G32:** It's the fastest return train (4h24m), departs at a reasonable 19:25 (not too late), and second-class seats are available. Only two intermediate stops (南京南, 济南西), making it a relaxed evening ride. If you want an earlier train, see G30 below.
+- **Why G26:** Departs right at 17:00, direct Hongqiao → Beijing South, good availability in both business and second class, and arrives at a reasonable 21:32. Only two intermediate stops (苏州北, 南京南, 济南西), making it a relaxed evening ride.
 
 ### Alternative: G30
 
-- **Departs:** 18:52 from Shanghai Hongqiao → **Arrives:** Beijing South 23:21 (4h 29m)
-- **Seat availability:** Business (商务座): 2 tickets left, ¥2,156 · 1st class (一等座): Available, ¥1,033 · **2nd class (二等座): Available, ¥626** · Standing: Available, ¥626
-- **Note:** G30 is the earliest second-class-available option after 17:00 (18:52 departure), giving you a more civilized evening than the 17:00 G26 (which has no second-class tickets left). It's only 5 minutes slower than G32 overall.
+- **Departs:** 18:52 from Shanghai Hongqiao → **Arrives:** Beijing South 23:21 (4h 29m — fastest return train)
+- **Seat availability:** Business (商务座): 1 ticket left, ¥2,156 · 1st class (一等座): Available, ¥1,033 · **2nd class (二等座): Available, ¥626** · Preferred 1st (优选一等座): Available, ¥1,420
+- **Note:** G30 is the fastest return train and slightly cheaper in second class (¥626 vs ¥661). It's only 52 minutes later than G26 but gets you back at a reasonable 23:21.
 
 ### Other evening options considered
 
-| Train | Depart | Arrive | 2nd Class? |
-|-------|--------|--------|-----------|
-| G26 (17:00 → 21:32) | 17:00 | 21:32 | ❌ Sold out (only 4 business seats, 10 1st-class seats) |
-| G726 (17:16 → 23:02) | 17:16 | 23:02 | ✅ Available (¥498), but slower (5h46m) |
-| G808 (17:25 → 23:16) | 17:25 | 23:16 | ✅ Available (¥498), but slower (5h51m) |
-| G810 (17:46 → 23:42) | 17:46 | 23:42 | ✅ Available (¥498), but slower (5h56m) |
+| Train | Departs | Arrives | 2nd Class? | Notes |
+|-------|---------|---------|-----------|-------|
+| G26 (17:00 → 21:32) | 17:00 | 21:32 | ✅ Available (¥661) | **Recommended** — direct, reasonable time, good availability |
+| G30 (18:52 → 23:21) | 18:52 | 23:21 | ✅ Available (¥626) | Fastest return, cheaper 2nd class |
+| G32 (19:25 → 23:49) | 19:25 | 23:49 | ✅ Available (¥598) | Cheapest 2nd class but arrives late (23:49) |
+| G726 (17:16 → 23:02) | 17:16 | 23:02 | ✅ Available (¥498) | Slower (5h46m), arrives very late |
+| G808 (17:25 → 23:16) | 17:25 | 23:16 | ✅ Available (¥498) | Slower (5h51m), arrives late |
 
 ---
 
@@ -116,14 +118,15 @@ All three shortlisted trains run direct G services from 北京南 to 上海虹�
 
 | Leg | Train | Depart → Arrive | 2nd Class | Recommendation |
 |-----|-------|-----------------|-----------|----------------|
-| Outbound (Nov 13) | **G1** | 06:30 → 11:24 | Available (¥598) | ✅ **Book G1** — best balance of speed, buffer, and availability |
-| Backup outbound | G7 | 09:00 → 13:37 | Available (¥692) | Good if you want to sleep in |
-| Return (Nov 14) | **G32** | 19:25 → 23:49 | Available (¥598) | ✅ **Book G32** — fastest, reasonable time, 2nd class available |
-| Return backup | G30 | 18:52 → 23:21 | Available (¥626) | Earlier option if you prefer a 18:52 departure |
+| Outbound (Nov 14) | **G7** | 09:00 → 13:37 | Available (¥692) | ✅ **Book G7** — humane timing, fastest, 83-min buffer |
+| Backup outbound | G1 | 06:30 → 11:24 | Available (¥598) | Good if you want to sleep in / arrive earlier |
+| Backup outbound | G37 | 07:52 → 12:35 | Available (¥661) | Solid alternate |
+| Return (Nov 16) | **G26** | 17:00 → 21:32 | Available (¥661) | ✅ **Book G26** — direct, reasonable time, good availability |
+| Return backup | G30 | 18:52 → 23:21 | Available (¥626) | Earlier/later tradeoff |
 
 **Action items:**
-1. Book **G1** on 2026-11-13 from 北京南 to 上海虹桥 (second class, ¥598).
-2. Book **G32** on 2026-11-14 from 上海虹桥 to 北京南 (second class, ¥598).
-3. Both tickets show second-class availability as of today (2026-11-12); classes tend to fill up, so book soon.
+1. Book **G7** on 2026-11-14 from 北京南 to 上海虹桥 (second class, ¥692).
+2. Book **G26** on 2026-11-16 from 上海虹桥 to 北京南 (second class, ¥661).
+3. Both legs show second-class availability as of today (2026-11-13). Seat counts can change quickly on popular routes — book ASAP.
 
 *Times and availability subject to 12306 real-time updates. Verify on 12306.cn before purchase.*
